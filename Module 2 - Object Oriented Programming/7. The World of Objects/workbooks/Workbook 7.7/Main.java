@@ -10,6 +10,8 @@
         }
 
         
+        System.out.println(person);
+
     }
   
 }
